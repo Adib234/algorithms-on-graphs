@@ -1,0 +1,1 @@
+Some fun I had with algorithms on graphs. Algorithms in this repo are all implementations done in Python. Things like BFS, DFS, Dijkstra, topological sort, cycle detection, A\* search, minimum spanning tree and lots more are included
